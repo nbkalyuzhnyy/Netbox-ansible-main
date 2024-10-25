@@ -11,7 +11,7 @@ Before running these playbooks, make sure you have Ansible installed on your mac
 1. **Clone the repository**:
 
    ```bash
-   git clone git@github.com:vsurresh/netbox_ansible.git
+   git clone git@github.com:nkalyuzhnyy/netbox_ansible.git
 
 2. Set up your environment variables:
 
